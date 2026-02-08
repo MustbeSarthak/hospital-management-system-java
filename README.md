@@ -26,7 +26,8 @@ It is a beginner-level project and focuses on logic building rather than UI.
 
 ## 🔧 Future Improvements (Planned)
 
-- Unique ID generation for patients and appointments  
+- Unique ID generation for patients and appointments
+- Prescription To Patients  
 - File handling / database integration  
 - Better validation and error handling  
 - Role-based login system  
